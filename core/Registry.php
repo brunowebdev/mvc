@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @author   João Batista Neto
+ * @creditos   João Batista Neto
  * 
  * Essa classe foi desenhada seguindo o pattern Singleton
  * ela previne que a classe Registry seja instanciada varias 
